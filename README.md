@@ -3,6 +3,9 @@
 ## Sobre o projeto
 Este projeto é uma **calculadora desenvolvida em Java** utilizando os princípios da **Programação Orientada a Objetos (POO)**. O objetivo é colocar em prática conceitos de **encapsulamento, modularização, reuso de código e estruturas de dados**, criando um software funcional, organizado e escalável.
 
+![Preview do projeto](screenshot.png)
+
+
 ---
 
 ## Funcionalidades
