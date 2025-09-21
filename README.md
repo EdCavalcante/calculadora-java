@@ -35,6 +35,6 @@ Este projeto é uma **calculadora desenvolvida em Java** utilizando os princípi
 ## Como executar
 1. Clone o repositório:
 ```bash
-git clone 
+git clone https://github.com/EdCavalcante/calculadora-java
 
 
